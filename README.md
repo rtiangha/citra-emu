@@ -1,3 +1,16 @@
+| Pull Request | Commit | Title | Author | Merged? |
+|----|----|----|----|----|
+| [7372](https://github.com/citra-emu/citra//pull/7372) | [`265ed7ec1`](https://github.com/citra-emu/citra//pull/7372/files) | pica_types: Correctly restrict Float<M, E> precision | [vitor-k](https://github.com/vitor-k/) | Yes |
+| [7384](https://github.com/citra-emu/citra//pull/7384) | [`20ef8e47e`](https://github.com/citra-emu/citra//pull/7384/files) | host_shaders: Remove dependency on shaderSampledImageArrayDynamicIndexing | [GPUCode](https://github.com/GPUCode/) | Yes |
+| [7420](https://github.com/citra-emu/citra//pull/7420) | [`1d2f9bc7c`](https://github.com/citra-emu/citra//pull/7420/files) | 3dsx: Minor cleanups and add argument support | [GPUCode](https://github.com/GPUCode/) | Yes |
+| [7429](https://github.com/citra-emu/citra//pull/7429) | [`2fe2dd148`](https://github.com/citra-emu/citra//pull/7429/files) | renderer_vulkan: Rewrite descriptor set management and various small fixes | [GPUCode](https://github.com/GPUCode/) | Yes |
+| [7472](https://github.com/citra-emu/citra//pull/7472) | [`2855c5414`](https://github.com/citra-emu/citra//pull/7472/files) | y2r: Delay completion event | [GPUCode](https://github.com/GPUCode/) | Yes |
+
+
+End of merge log. You can find the original README.md below the break.
+
+-----
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
